@@ -5,12 +5,6 @@
 
 .bicicletas-lista h2{
   margin-bottom: 40px;
-  max-width: 1200px;
-  padding-left: 20px;
-  padding-right: 20px;
-  box-sizing: border-box;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .bicicletas-lista ul{
