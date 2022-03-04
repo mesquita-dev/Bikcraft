@@ -9,7 +9,7 @@ ul{
  list-style: none;
 }
 
-h1,h2,h3,h4,ul,p, blockquote{
+h1,h2,h3,h4,ul,p, blockquote, dd{
   margin: 0;
 }
 
