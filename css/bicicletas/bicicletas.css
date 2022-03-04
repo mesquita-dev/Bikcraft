@@ -67,6 +67,7 @@
 .bicicletas ul{
   display: grid;
   gap: 16px;
+  font-weight: 600;
 }
 
 .bicicletas-conteudo img{
