@@ -15,6 +15,7 @@ h1,h2,h3,h4,ul,p, blockquote, dd{
 
 img{
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
