@@ -170,13 +170,30 @@
   cursor: pointer;
 }
 
-.orcamento-dados .checkbox{
-  display: flex;
-  align-items: center;
+.orcamento-dados .checkbox input{
+  display: none;
 }
 
-.orcamento-dados .checkbox label{
-  margin-left: 12px;
+.orcamento-dados .checkbox input + label:before{
+  content: '';
+  width: 32px;
+  height: 32px;
+  background: var(--cor-1);
+  box-sizing: border-box;
+  border: 1px solid var(--cor-4);
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 12px;
+  margin-bottom: 3px;
+}
+
+.orcamento-dados .checkbox input:checked + label:before{
+  background-image: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 10 10'%3E%3Cg class='nc-icon-wrapper' stroke-width='1' fill='%23555555'%3E%3Cpath fill='none' stroke='%23FFFFFF' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='10' data-cap='butt' d='M2.83 4.72l1.58 1.58 2.83-2.83'/%3E%3C/g%3E%3C/svg%3E");
+  background-color: var(--cor-6);
+  background-position: center;
+  border: none;
+  padding: 1px;
 }
 
 .orcamento-dados .checkbox a{
