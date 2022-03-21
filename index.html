@@ -14,8 +14,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+<script>document.documentElement.classList.add("js")</script>
 </head>
-
 <body>
   <header class="header-bg">
     <div class="header container">
@@ -36,11 +36,11 @@
   <main class="introduçao-bg">
     <div class="introduçao container">
       <div class="introduçao-conteudo">
-        <h1 class="font-1-xxl cor-0">Bicicletas feitas sob medida<span class="cor-p1">.</span></h1>
-        <p class="font-2-l cor-5">Bicicletas elétricas de alta precisão e qualidade,  feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft.</p>
-        <a class="botao" href="./bicicletas.html">Escolha a sua</a>
+        <h1 class="font-1-xxl cor-0 fadeInDown" data-anime="200">Bicicletas feitas sob medida<span class="cor-p1">.</span></h1>
+        <p class="font-2-l cor-5 fadeInDown" data-anime="400">Bicicletas elétricas de alta precisão e qualidade,  feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft.</p>
+        <a class="botao fadeInDown" href="./bicicletas.html" data-anime="600">Escolha a sua</a>
       </div> 
-      <picture>
+      <picture class="fadeInDown" data-anime="800">
         <source media="(max-width: 800px)" srcset="./img/bicicletas/nimbus.jpg">
         <img src="./img/fotos/introduçao.jpg" width="1280" height="1600" alt="Bicicleta Elétrica Preta (Nimbus Stark)">
       </picture>
@@ -195,6 +195,7 @@
         <p class="footer-copy font-2-m cor-6">Bikcraft © Alguns direitos reservados.</p>
       </div>
     </footer>
+    <script src="./js/plugins/simple-anime.js"></script>;
     <script src="js/script.js"></script>
 </body>
 </html>
