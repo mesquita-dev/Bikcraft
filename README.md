@@ -12,42 +12,23 @@ This project (**Bikcraft**) was developed during the **HTML and CSS for beginner
 - **CSS3**
 - **JavaScript** (With the plugin: [SimpleAnime](https://github.com/origamid/simple-anime))
 - **Figma** (Link to project with Wireframe, Style Guide and Design: [Design](https://www.figma.com/file/82ve5R4zbWl63GhnxT6GvU/Bikcraft?node-id=5%3A2))
-- **SASS**
-- **Scout App** (compilador do SASS)
 
 ---
 
 ## 🖥️ A little demonstration of Bikcraft
-[![Bikcraft](https://i.imgur.com/Gy5e6Tn.png "Clique para acessar o projeto")](https://devmagno.github.io/bikcraft/views/index.html "Clique para acessar o projeto")   
 
-Você pode acessar o projeto clicando [aqui](https://devmagno.github.io/bikcraft/views/index.html).
+
+[![Screenshot_3](https://user-images.githubusercontent.com/91436176/159788108-aeac5b2e-4518-41c7-9353-fc5fd445f0cc.png "Clique para acessar o projeto")](https://bikcraft-mesquitadev.000webhostapp.com/ "Clique para acessar o projeto")
+  
+You can view more and access the project with clicking [here](https://bikcraft-mesquitadev.000webhostapp.com/).
 
 ---
 
 ## 🔖 Layout
-Tanto o **wireframe** quanto o **design** do projeto **Bikcraft** foram desenvolvidos no **Adobe XD,** ambos **navegáveis** e que você pode acessar nos links abaixo:
-- **[Wireframe do projeto](https://xd.adobe.com/view/95e96e6a-d057-42e1-a34f-bc99d2963f42-c0ba/?fullscreen&hints=off)**
-- **[Design do projeto](https://xd.adobe.com/view/49a2fc68-e3ac-4e9c-b825-0217fcc8c506-1cf1/?fullscreen&hints=off)**
+The **wireframe** and the **design** from this project (**Bikcraft**) were developed in **Figma**. You can view all of **UI/UX Design** were using knowledge:  **Tipography**, **Colors**, **Space** and others. Click in this link for follow in Figma: 
+- **[Bikcraft Design](https://www.figma.com/file/82ve5R4zbWl63GhnxT6GvU/Bikcraft?node-id=5%3A2)**
 
 ---
 
-## 🔧 Como executar o projeto
+**Developed by [Lucas Mesquita](https://github.com/mesquita-dev/).** Thanks for view my Website, i'm gratefull for that 🖤
 
-```bash
-# Clone o repositório
-git clone https://github.com/devMagno/bikcraft
-
-# Entre no diretório
-cd bikcraft
-```
-Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o projeto.
-
----
-
-## 📝 Licença
-
-O projeto está sob a licença MIT. Para saber mais, acesse o arquivo [LICENSE](https://github.com/devMagno/bikcraft/blob/master/LICENSE).
-
----
-
-**Desenvolvido com 💛 por [Guilherme Magno](https://github.com/devmagno/).**
