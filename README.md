@@ -18,9 +18,9 @@ This project (**Bikcraft**) was developed during the **HTML and CSS for beginner
 ## 🖥️ A little demonstration of Bikcraft
 
 
-[![Screenshot_3](https://user-images.githubusercontent.com/91436176/159788108-aeac5b2e-4518-41c7-9353-fc5fd445f0cc.png "Clique para acessar o projeto")](https://bikcraft-mesquitadev.000webhostapp.com/ "Clique para acessar o projeto")
+[![Screenshot_3](https://user-images.githubusercontent.com/91436176/159788108-aeac5b2e-4518-41c7-9353-fc5fd445f0cc.png "Clique para acessar o projeto")](https://mesquita-dev.github.io/Bikcraft/ "Clique para acessar o projeto")
   
-You can view more and access the project with clicking [here](https://bikcraft-mesquitadev.000webhostapp.com/).
+You can view more and access the project with clicking [here](https://mesquita-dev.github.io/Bikcraft/).
 
 ---
 
